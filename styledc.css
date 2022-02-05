@@ -1,0 +1,19 @@
+body{
+    background-color: #0A0526;
+    color: ivory;
+    text-align: center;
+}
+
+.icon{
+    position: center;
+}
+
+h1{
+    font-size: 50px;
+    background-color: darkslateblue;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,21 @@
+body{
+    background-color: #B3001B;
+    color: ivory;
+    text-align: center;
+}
+
+.icon{
+    width: 200px;
+    position: center;
+   top: -15px
+}
+
+h1{
+    font-size: 50px;
+    background-color: red;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
